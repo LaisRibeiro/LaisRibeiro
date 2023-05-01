@@ -8,7 +8,11 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LaisRibeiro&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaisRibeiro&layout=compact&langs_count=7&theme=dark"/>
 </div>
-
+<div align="center">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+  
+  </div>
+  
 ##
   <h2 color="white"><i>Minhas redes sociais</i></h2>
 <div>
